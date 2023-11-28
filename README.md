@@ -14,3 +14,16 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
    ```bash
    git clone https://github.com/your-username/image-resizer.git
+
+### Navigate to the project directory:
+
+cd image-resizer
+
+### Install the dependencies:
+
+npm install
+
+### Usage
+
+npx electronmon .
+
